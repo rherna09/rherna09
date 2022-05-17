@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...completing my masters in Information Management
-- 🌱 I’m currently learning ...text mining.
+- 🔭 I have a Master's in Information Management from Syracuse University
+- 🌱 I’m currently learning ...Sports Analytics. 
 - 👯 I’m looking to collaborate on ...Data Science projects.
 - 🤔 I’m looking for help with ...Machine Learning. I could always get better on developing my Machine Learning Skills. 
-- 💬 Ask me about ...Social Science, basketball and film.
-- 📫 How to reach me: ...Ill let you know. 
+- 💬 Ask me about ...Basketball and film.
+- 📫 How to reach me: ...rherna09@syr.edu
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...I have an MFA in Film Production and have shot three short films.  Two were narrative pieces and the third a documentary. 
 -->
